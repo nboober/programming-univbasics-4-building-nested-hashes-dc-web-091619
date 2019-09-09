@@ -5,11 +5,8 @@ def base_hash
   # keyword "return." Nice and neat.
 	
 	
-	hash = {}
-	
-	hash[:railroads]
-	
-	return hash
+	{}
+
 	
 end
 
@@ -24,9 +21,9 @@ def monopoly_with_second_tier
   
   hash = {}
   
-  	hash[:railroads]
+  hash[:railroads]
 	
-	return hash
+	hash
   
 end
 
