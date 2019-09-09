@@ -5,7 +5,11 @@ def base_hash
   # keyword "return." Nice and neat.
 	
 	
-	{:railroads}
+	hash = {}
+	
+	hash[:railroads]
+	
+	return hash
 	
 end
 
